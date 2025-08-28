@@ -1,0 +1,16 @@
+export { default as BuildingOfficeIcon } from './BuildingOfficeIcon';
+export { default as CheckIcon } from './CheckIcon';
+export { default as ClockIcon } from './ClockIcon';
+export { default as CompassIcon } from './CompassIcon';
+export { default as DiamondIcon } from './DiamondIcon';
+export { default as HeartIcon } from './HeartIcon';
+export { default as HomeIcon } from './HomeIcon';
+export { default as LightbulbIcon } from './LightbulbIcon';
+export { default as MapPinIcon } from './MapPinIcon';
+export { default as SparklesIcon } from './SparklesIcon';
+export { default as StarIcon } from './StarIcon';
+export { default as TagIcon } from './TagIcon';
+export { default as TicketIcon } from './TicketIcon';
+export { default as UserIcon } from './UserIcon';
+export { default as UsersIcon } from './UsersIcon';
+export { default as WalletIcon } from './WalletIcon';

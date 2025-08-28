@@ -1,0 +1,6 @@
+{
+  "name": "Trippi-Planner",
+  "description": "An intelligent trip planner that creates a personalized travel itinerary based on user preferences using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
